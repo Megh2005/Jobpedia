@@ -71,6 +71,10 @@ git pull-request [username] [branch]
 ![npm](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=fff&style=plastic)
 ![Node](https://img.shields.io/badge/Node-5FA04E?logo=nodedotjs&logoColor=fff&style=plastic)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=fff&style=plastic)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic)
+![Mongoose](https://img.shields.io/badge/Mongoose-800?logo=mongoose&logoColor=fff&style=plastic)
+![.ENV](https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=plastic)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=fff&style=plastic)
 
 ## Contact
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=plastic)](https://facebook.com/iammeghdeb) 
