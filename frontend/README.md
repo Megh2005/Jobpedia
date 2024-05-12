@@ -1,5 +1,5 @@
 # Jobpedia : Opportunity Meets Brilliance 
-[![](https://github.com/Megh2005/Jobpedia/blob/045f4e2d5a36effa1c3acb5c9f5350514f877908/frontend/public/1.png)](https://github.com/Megh2005/Jobpedia/blob/045f4e2d5a36effa1c3acb5c9f5350514f877908/frontend/public/1.png)
+[![](https://github.com/Megh2005/Jobpedia-Frontend/blob/1bb022b56b3d6f02dfb5a9ef9cffb367c697de62/src/assets/1.png)](https://github.com/Megh2005/Jobpedia-Frontend/blob/1bb022b56b3d6f02dfb5a9ef9cffb367c697de62/src/assets/1.png)
 ## Overview
 Jobpedia is a professional project dedicated to solve employment issues. Where job seekers and recruiters can meet each other and can review each others. Also further recruitment procedures can be done.
 
